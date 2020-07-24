@@ -1,0 +1,1 @@
+Start "cd /d %~dp0"
